@@ -28,10 +28,17 @@ h2 {
 h3 {
     color: grey;
     font-size: 21px;
+    font-weight: 300;
 }
 
 /* Coming soon section */
 
 .comingsoon {
     margin-top: 25px;
+}
+
+/* Footer section */
+
+footer {
+    text-align: right;
 }
